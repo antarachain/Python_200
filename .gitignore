@@ -154,3 +154,6 @@ dmypy.json
 *.jpg
 *.pdf
 *.png
+*.exe
+*.log
+*.html
